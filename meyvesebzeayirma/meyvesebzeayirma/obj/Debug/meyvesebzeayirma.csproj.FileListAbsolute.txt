@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\bin\Debug\meyvesebzeayirma.exe.config
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\bin\Debug\meyvesebzeayirma.exe
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\bin\Debug\meyvesebzeayirma.pdb
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.Form1.resources
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.Properties.Resources.resources
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.exe
+C:\Users\User\source\repos\meyvesebzeayirma\meyvesebzeayirma\obj\Debug\meyvesebzeayirma.pdb
